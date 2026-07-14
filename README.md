@@ -165,7 +165,7 @@ Real-Time Collaborative Code Editor
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="https://github.com/Balram004">
 GitHub
