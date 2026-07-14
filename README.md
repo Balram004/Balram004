@@ -105,8 +105,8 @@ Real-Time Collaborative Code Editor
 
 ## 🏆 GitHub Trophy
 
-<p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Balram004&theme=algolia&no-frame=true&row=1&column=6"/>
+<p align="center">[
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Balram004&theme=algolia&no-frame=true&row=1&column=6"/>](https://github-profile-trophy-liard-delta.vercel.app/?username=Balram004&theme=algolia&no-frame=true&row=1&column=6)
 </p>
 
 ---
