@@ -1,37 +1,188 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Balram Singh Tomar</h1>
-<h3 align="center">frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
+# Hi 👋, I'm Balram Singh Tomar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balram004&label=Profile%20views&color=0e75b6&style=flat" alt="balram004" /> </p>
+### 💻 Full Stack MERN Developer | Java Developer | DSA Enthusiast
 
-<p align="left"> <a href="https://twitter.com/official_balram" target="blank"><img src="https://img.shields.io/twitter/follow/official_balram?logo=twitter&style=for-the-badge" alt="official_balram" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Java+Developer;Building+Modern+Web+Applications;Open+to+Software+Developer+Opportunities;Always+Learning+New+Technologies+🚀"/>
 
-- 🌱 I’m currently learning **Node.Js**
+<p>
+<a href="https://github.com/Balram004">
+<img src="https://img.shields.io/github/followers/Balram004?logo=github&style=for-the-badge"/>
+</a>
 
-- 💬 Ask me about **frontend**
+<a href="https://github.com/Balram004">
+<img src="https://komarev.com/ghpvc/?username=Balram004&style=for-the-badge&color=blue"/>
+</a>
 
-- 📫 How to reach me **balramtomar998@gmail.com**
+<a href="https://www.linkedin.com/in/balram-singh-tomar-4817b1241/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/official_balram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="official_balram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/balram-singh-tomar-4817b1241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/balram-singh-tomar-4817b1241" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_balram_tomar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_balram_tomar/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/btstyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="btstyle" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/BalramTomar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BalramTomar" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balram004&show_icons=true&locale=en&layout=compact" alt="balram004" /></p>
+# 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balram004&show_icons=true&locale=en" alt="balram004" /></p>
+🎓 B.Tech CSE Student at ITM University Gwalior
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balram004&" alt="balram004" /></p>
+💻 Full Stack MERN Developer
+
+☕ Solving DSA using Java
+
+🚀 Passionate about building scalable Web Applications
+
+🌱 Currently learning Advanced Backend & System Design
+
+🎯 Looking for Software Developer Opportunities
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🧠 DevLens</h3>
+
+<p align="center">
+
+AI GitHub Repository Analyzer powered by Groq AI.
+
+</p>
+
+<p align="center">
+
+<a href="https://devlens-bd9c.vercel.app">
+
+<img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/Balram004/DEVLENS">
+
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💻 CodeSync</h3>
+
+<p align="center">
+
+Real-Time Collaborative Code Editor
+
+</p>
+
+<p align="center">
+
+<a href="https://code-sync-chi-six.vercel.app">
+
+<img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/Balram004/CodeSync">
+
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Balram004&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram004&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Balram004&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Balram004&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balram004&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Balram004">
+GitHub
+</a>
+
+•
+
+<a href="https://www.linkedin.com/in/balram-singh-tomar-4817b1241/">
+LinkedIn
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting ⭐
+
+If you like my work, don't forget to ⭐ star my repositories.
+
+</div>
