@@ -86,27 +86,10 @@ Real-Time Collaborative Code Editor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Balram004&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram004&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Balram004&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">[
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Balram004&theme=algolia&no-frame=true&row=1&column=6"/>](https://github-profile-trophy-liard-delta.vercel.app/?username=Balram004&theme=algolia&no-frame=true&row=1&column=6)
 </p>
 
 ---
