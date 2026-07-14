@@ -29,18 +29,17 @@
 ---
 
 # 👨‍💻 About Me
-
-🎓 B.Tech CSE Student at ITM University Gwalior
+🎓 B.Tech CSE Student | ITM University Gwalior
 
 💻 Full Stack MERN Developer
 
-☕ Solving DSA using Java
+☕ Java & Data Structures & Algorithms
 
-🚀 Passionate about building scalable Web Applications
+🚀 Building AI-Powered & Real-Time Web Applications
 
-🌱 Currently learning Advanced Backend & System Design
+🌱 Currently learning System Design & Backend Development
 
-🎯 Looking for Software Developer Opportunities
+🎯 Open to Software Developer Opportunities
 
 ---
 
@@ -172,10 +171,12 @@ Real-Time Collaborative Code Editor
 GitHub
 </a>
 
-•
-
 <a href="https://www.linkedin.com/in/balram-singh-tomar-4817b1241/">
 LinkedIn
+</a>
+
+<a href="mailto:balramtomar082@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
